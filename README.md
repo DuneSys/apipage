@@ -1,7 +1,7 @@
 # apipage
 
-API Description viewer using Github PAge and swagger-ui.
+API Documentation.
 
-You can easly refer any api and it will expose its definition in freindly way using swagger-ui.
+You can easly refer any OpenAPI definition and it will expose its show it in a freindly way.
 
-This tool is using the power of GithubPage and (Swagger-UI)[https://github.com/swagger-api/swagger-ui/]
+This tool is using the power of [GitHub Pages](https://pages.github.com/) and [Swagger-UI](https://github.com/swagger-api/swagger-ui/).
